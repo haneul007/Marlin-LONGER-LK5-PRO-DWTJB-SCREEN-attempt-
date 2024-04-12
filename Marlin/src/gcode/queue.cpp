@@ -29,7 +29,7 @@ GCodeQueue queue;
 
 #include "gcode.h"
 
-#include "C:\Users\leer25\Downloads\Marlin-bugfix-2.1.x\Marlin\src\lcd\marlinui.h"
+#include "../lcd/marlinui.h"
 #include "../sd/cardreader.h"
 #include "../module/motion.h"
 #include "../module/planner.h"
